@@ -1,4 +1,4 @@
-### Hi there 👋
+### Desenvolvedor Python, Django iniciante.
 
 <!--
 **B4G4C31R0/B4G4C31R0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
