@@ -1,4 +1,4 @@
-### Desenvolvedor Python, Django iniciante.
+### Desenvolvedor iniciante em Python e também em Django 3.x
 
 <!--
 **B4G4C31R0/B4G4C31R0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
